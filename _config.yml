@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello, world."
+title                    : "Fangzhou Sha"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Fangzhou Sha"
-  avatar           : "FangzhouSha.JPEG"
+  avatar           : "FangzhouSha.PNG"
   bio              : 
   location         : "Dallas, Texas"
   employer         :
